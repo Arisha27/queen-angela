@@ -1,9 +1,28 @@
-/* Codded by @phaticusthiccy
-Telegram: t.me/phaticusthiccy
-Instagram: www.instagram.com/kyrie.baran
+/*
 
-Special Thanks:
-@Unique_hunter for Helps
+bot.addCommand(
+
+	{
+
+		pattern: 'af ?(.*)',
+
+		fromMe: true,
+
+		desc: 'custom MForward with via ad',
+
+	},
+
+	async (message, match) => {
+
+		}
+
+)
+
+BY MASK SER
+
+THANKS TO M E H 4 F I L
+
+*/
 */
 
 const Asena = require('../events');
